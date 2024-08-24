@@ -3,3 +3,7 @@ fastapi
 numpy
 uvicorn
 catboost
+pydantic
+typing
+json
+requests
