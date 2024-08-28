@@ -9,7 +9,7 @@ from typing import List
 import os 
 os.getcwd()
 #model_path = r'C:\Users\kuksj\Downloads\TrippleDotTask\app\random_forest_classifier_model.joblib'
-model_path = r'random_forest_classifier_model.joblib'
+model_path = r'./app/random_forest_classifier_model.joblib'
 model = joblib.load(model_path)
 
 class_names = np.array(['Low', 'Medium', 'High'])

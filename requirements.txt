@@ -3,7 +3,7 @@ fastapi==0.112.0
 numpy==1.23.5
 uvicorn==0.25.0
 catboost==1.2.5
-pydantic==2.5.3
+pydantic==2.8.2
 typing
-json==2.0.9
+#json==2.0.9
 requests==2.31.0
